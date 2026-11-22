@@ -1,0 +1,6 @@
+# İşletme tarafından eklenen görsel, video ve ses dosyalarını depoya yükleme.
+/assets/*
+!/assets/.gitkeep
+
+# Paylaşılabilir Git deposu için oluşturulmuş arşivi dışarıda tut.
+/Business-Care.zip
